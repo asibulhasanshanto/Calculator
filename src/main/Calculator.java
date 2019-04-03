@@ -4,7 +4,7 @@ public class Calculator
 {	
 	public double  SubtractionMethod(double first,double second)
 	{
-		double result = first * second;
+		double result = first - second;
 		return result;
 	}
 }
